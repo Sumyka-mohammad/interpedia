@@ -1,1 +1,1 @@
-#interpedia
+#internpedia
